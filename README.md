@@ -15,3 +15,5 @@ Good luck!
 Some of these solutions may be asymptotically slower than the official
 solutions.  Please report any errors you find!  At least one (8.11 `coins2`)
 is asymptotically faster than the solution given in the book.
+
+[![Run on Repl.it](https://repl.it/badge/github/vchan14/ctci-solutions)](https://repl.it/github/vchan14/ctci-solutions)
